@@ -45,9 +45,12 @@ vector 간의 유사도를 구하기 위해 제일 흔한 방법을 쓴다.
 
 여기서 쓰이는 방식은 model 의 parameter 를 구한다기보다는 데이터에 적합한 알고리즘을 구한다. 
 # Heterogeneous Variables
+각 feature 간의 축적이 다를 때는 해당 축적의 범위를 맞춰주어야 한다. 일반적으로 이런 과정을 Normalization 이라고 한다. 통계적으로 각 feature 들의 값들을 손쉽게 변형할 수 있으나 여기에서는 약간 다른 방식을 사용한다. 
 ## Adding to the Dataset
 ## Scaling Dimensions
+rescale 이라는 함수를 작성한다. 이 함수는 data 와 scale 이라는 list 타입을 받아들인다. sclae 에는 각 feature 의 배율이 담겨져 있어서 이 배율을 사용해서 데이터를 변경한다. 
 # Optimizing the Scale
+scaling 변수 최적화. 통계적으로 해결하지 않고 앞 단락의 optimizing 기법들을 사용해본다. 
 # Uneven Distributions
 ## Estimating the Probability Density
 ## Graphing the Probabilities
