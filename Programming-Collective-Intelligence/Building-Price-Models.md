@@ -17,15 +17,33 @@ vector 간의 유사도를 구하기 위해 제일 흔한 방법을 쓴다.
 * euclidean distance 
 
 ## Code for k-Nearest Neighbors
+책에 코드가 잘 구현되어 있다...
 
 # Weighted Neighbors
-
+입력된 vector 와 가장 가까운 k개의 데이터를 가져왔을 때 이들의 산술평균을 구하는 것은 불공평할 때가 있다. k개의 가격이 비슷하면 괜찮지만 차이가 난다면 정확도가 떨어진다. 이를 위해 각각의 가격에 가중치를 둔다. 가중치의 기준이 되는 것은 입력된 vector 와의 distance 이다.
 ## Inverse Function
+가중치를 1/d 로 설정한다. 이 때 d 가 엄청 작다면 가중치가 엄청 커지기 때문에, 1/(d+0.1) 정도로 적당하게 설정한다. 단점은 가중치의 편차가 너무 크다는 것이다. 
 ## Subtraction Function
+정해진 숫자에서 distance 를 뺀다. 
 ## Gaussian Function
-## Weighted Function
+가우스 함수, 그런데 이 책에서 나오는 가우스 함수는 약간 이상하다. 가우스 함수에는 표준편차가 들어가야하는데 그러려면 전체 집합에 대한 정보가 필요하지만 여기에서는 sd 대신 특정 상수를 사용한다. 
+
 ## Weighted kNN
+가중치 평가함수를 사용해서 평균을 구하는 함수를 작성한다. 
+
 # Cross-Validation
+## 일반적인 CV 
+1. 데이터를 train set 과 test set 으로 나눈다.
+2. train set 을 model 에 던져서 parameter 를 얻는다. 
+3. 설정된 parameter 의 model 에 test set 을 던져서 오차를 구한다. 
+4. 위의 과정을 반복해서 오차가 작은 parameter 를 선택한다.
+
+## 여기에서 쓰인 CV
+1. 데이터를 train set 과 test set 으로 나눈다. 
+2. train set 을 기존의 데이터 묶음으로 보고 알고리즘과 test set 의 데이터를 하나씩 던져서 결과값을 얻은 후 이것의 오차율을 더한다.
+3. 각 알고리즘마다 위의 행동을 반복해서 최적의 알고리즘을 구한다. 
+
+여기서 쓰이는 방식은 model 의 parameter 를 구한다기보다는 데이터에 적합한 알고리즘을 구한다. 
 # Heterogeneous Variables
 ## Adding to the Dataset
 ## Scaling Dimensions
