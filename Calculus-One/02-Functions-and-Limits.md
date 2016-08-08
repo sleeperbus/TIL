@@ -2,11 +2,7 @@
 ## How to we get started with calculus?
 
 # Functions? What's a Function?
-![1](http://d.pr/i/1iqj6)
-
-## What is a function?
-## When are two functions the same?
-
+![1](http://d.pr/i/1iqj6+)
 ## How can more functions be made?
 
 # Functions in the Real World
