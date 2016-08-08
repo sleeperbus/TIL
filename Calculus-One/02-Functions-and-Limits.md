@@ -2,7 +2,7 @@
 ## How to we get started with calculus?
 
 # Functions? What's a Function?
-![What is a function?](http://d.pr/i/1iqj6)
+![1](http://d.pr/i/1iqj6)
 
 ## What is a function?
 ## When are two functions the same?
