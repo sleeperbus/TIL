@@ -8,7 +8,7 @@
 # Functions in the Real World
 ## What are some real-world example of functions?
 ## What is the domain of square root?
-
+![2](http://d.pr/i/1baij+)
 # Limits? What's a Limit?
 ## Morally, whatis the limit of a sum?
 ## What is the limit of sin(1/x)?
