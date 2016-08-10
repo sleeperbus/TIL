@@ -52,8 +52,48 @@ rescale 이라는 함수를 작성한다. 이 함수는 data 와 scale 이라는
 # Optimizing the Scale
 scaling 변수 최적화. 통계적으로 해결하지 않고 앞 단락의 optimizing 기법들을 사용해본다. 
 # Uneven Distributions
+데이터에 포함되지 않은 feature 로 인해 분석에 혼란이 생길 수도 있다. 와인은 일반적인 와인샵에서 구매할 수도 있지만 할인샵에서도 구매할 수 있다고 가정하자. 데이터에 구입한 장소라는 feature 가 포함되어 있지 않을 경우, 비슷한 feature 를 가진 데이터들의 가격 분포가 정규분포를 따르지 않을 수도 있다. 이 때는 데이터의 분포를 보고 원인을 찾아야 한다.
 ## Estimating the Probability Density
+데이터에 신규 데이터를 던졌을 때 특정 가격범위에 속할 확률을 반환하는 함수 
+```
+def probguess(data, vec1, low, high, k=5, weightf=gaussian):
+  dlist = getdistances(data, vec1)
+  nweight = 0.0
+  tweight = 0.0 
+
+  for i in range(k):
+    dist = dlist[i][0]
+    idx = dlist[i][1]
+    weight = weightf(dist)
+    v = data[idx]['result']
+
+    # 범위 안에 존재하는 값인가? 
+    if low <= v and v <= high: nweight += weight
+    tweight += weight 
+  
+  if tweight ==0:return 0
+  return nweight/tweight
+```
 ## Graphing the Probabilities
+특정 feature 를 가진 데이터 포인트가 각각의 범위에 속할 확률을 화면에 표시한다. 각 구간의 확률만을 사용해서 그래프를 그리면 discret 한 그래프가 되기 때문에 나머지 확률구간들에 가중치를 주어서 값을 구하게 된다. 
+```
+def probabilitygraph(data, vec1, high, k=5, weightf=gaussian, ss=5.0):
+  t1 = arange(0.0, high, 0.1)
+  probs = [probguess(data, vec1, v, v+0.1, k, weightf) for v in t1]
+  smoothed = []
+
+  for i in range(len(probs)):
+    sv = 0.0 
+    for j in range(0, len(probs)):
+      dist = abs(i-j)*0.1
+      weight = gaussian(dist, sigma=ss)
+      sv += weight*probs[j]
+    smoothed.append(sv)
+  smoothed = array(smoothed)
+
+  plot(t1, smoothed)
+  show()
+```
 # Using Real Data - the eBay API
 ## Getting a Developer Key
 ## Setting Up a Connection
