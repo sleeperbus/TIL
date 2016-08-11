@@ -12,12 +12,13 @@
 # Limits? What's a Limit?
 ## Morally, whatis the limit of a sum?
 ## What is the limit of sin(1/x)?
-![3](http://d.pr/i/1iE8C+)
 ## What is the limit of (sin x)/x?
-## what is the limit of (x^2-1)/(x-1)?
+![3](http://d.pr/i/1iE8C+)
 
+## what is the limit of (x^2-1)/(x-1)?
 # Working with Limits
 ## What is the limit of a product?
+![3](http://d.pr/i/14ZVh+)
 ## What is the limit of a quotient?
 
 # Limits of Motion
