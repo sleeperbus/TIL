@@ -1,8 +1,10 @@
 # Continuity
 ## What is one-sided limit?
 ## what does "continous" mean?
+![1](http://d.pr/i/1isx9+)
 ## What is the intermediate value theorm?
 ## How can I approxiamte root two?
+![1](http://d.pr/i/11oPT+)
 
 # Infinity? How can I work with that?
 ## Why is there an x so that f(x) = x?
