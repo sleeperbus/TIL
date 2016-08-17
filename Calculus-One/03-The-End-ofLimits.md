@@ -4,13 +4,15 @@
 ![1](http://d.pr/i/1isx9+)
 ## What is the intermediate value theorm?
 ## How can I approxiamte root two?
-![1](http://d.pr/i/11oPT+)
+![2](http://d.pr/i/11oPT+)
 
 # Infinity? How can I work with that?
 ## Why is there an x so that f(x) = x?
-## What does lim(fx) = infinity mean?
+## What does limf(x) = infinity mean?
+![3](http://d.pr/i/UorJ+)
 ## What is the limit f(x) as x approaches infinity?
 ## Why is infinity not a number?
+![4](http://d.pr/i/JnaE+)
 
 # Slope?
 ## What is the difference between potential and actual infinity?
