@@ -23,3 +23,4 @@
 ## What is the official definition of limit?
 ## Why is the limit of x^2 as x approaches 2 equal to 4?
 ## Why is the limit of 2x as x approaches 10 equal to 20?
+![5](http://d.pr/i/1loYK+)
