@@ -21,8 +21,7 @@
 # Support-Vector Machines
 주어진 데이터에 최적화시키면 새로운 데이터에 대해서 이런 일이 발생한다.  
 이 때 SVM 은 분류와 데이터 사이에 일정한 margin 을 만들어서 데이터를 분류시키켜 준다.
-![3](http://d.pr/i/ilc4+)
-
+![3](http://d.pr/i/iIc4+)
 
 # Using LIBSVM
 # Matching on Facebook
