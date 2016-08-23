@@ -14,5 +14,9 @@
 # How do differentiability and continuity relate?
 ## Why is a differentiable function necessarily continuous?
 ![4](http://d.pr/i/plNX+)
+## What is the derivative of a constant multiple of f(x)?
+# How do I find the derivative?
+## Why is the derivative of x^2 equal to 2x?
+![5](http://d.pr/i/hhbE+)
 
 
