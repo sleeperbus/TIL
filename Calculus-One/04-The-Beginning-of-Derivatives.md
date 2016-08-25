@@ -18,5 +18,7 @@
 # How do I find the derivative?
 ## Why is the derivative of x^2 equal to 2x?
 ![5](http://d.pr/i/hhbE+)
-
+## What is the derivative of x^n?
+## Why is the derivative of a sum the sum of derivatives?
+![6](http://d.pr/i/HBCP+)
 
