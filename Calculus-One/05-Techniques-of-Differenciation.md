@@ -9,3 +9,9 @@
 ## How can I find extreme values?
 ![4](https://d.pr/2l1V+)  
 ![5](https://d.pr/8pM+)
+## Do all local minimums look basically the same when you zoom in?
+## How can I sketch a graph by hand?
+![6](https://d.pr/1gO3g+)
+
+# How do I differentiate e^x?
+![7](https://d.pr/1jAhx+)
