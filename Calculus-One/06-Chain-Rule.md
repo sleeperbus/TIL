@@ -4,3 +4,5 @@
 
 # How do I find the derivative of an inverse function? 
 ![3](https://d.pr/xF6+)
+# What is the derivative of log?
+![4](https://d.pr/G6Xc+)
