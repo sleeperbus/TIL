@@ -13,3 +13,8 @@
 ## How do we justify the power rule?
 ![6](https://d.pr/1kfTp+)
 ![7](https://d.pr/1bRxo+)
+## How can logarithms help to prove the product rule?
+## How do we prove the quotient rule?
+## How does one prove the chain rule?
+![8](https://d.pr/8PSv+)
+![9](https://d.pr/1gqrE+)
