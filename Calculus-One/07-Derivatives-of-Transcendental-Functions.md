@@ -7,3 +7,8 @@
 # How can I differentiate inverse trig functions?
 ## What are inverse trignometric functions?
 ![2](https://d.pr/nKpM+)
+## What are the derivatives of inverse trig functions?
+#What can we learn from the derivatives of trig functions?
+## Why do sine and cosine oscillate?
+![3](https://d.pr/13pd9+)
+![4](https://d.pr/KSHa+)
