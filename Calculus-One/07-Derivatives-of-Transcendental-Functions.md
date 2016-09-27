@@ -12,3 +12,6 @@
 ## Why do sine and cosine oscillate?
 ![3](https://d.pr/13pd9+)
 ![4](https://d.pr/KSHa+)
+## How can we get a formula for sin(a+b)?
+## How can I approximate sin(1)?
+![5](https://d.pr/bejw+)
