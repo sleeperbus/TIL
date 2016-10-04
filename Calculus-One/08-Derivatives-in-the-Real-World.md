@@ -10,3 +10,8 @@
 ## How long until the grey goo destroys earth?
 ## What does a car sound like as it drives past?
 ![4](https://d.pr/1kdP1+)
+
+# How do derivatives help me understand how two rates of change are related?
+![1](https://d.pr/1lmtM+)
+![2](https://d.pr/10zzy+)
+![3](https://d.pr/1cZYZ+)
