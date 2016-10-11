@@ -13,4 +13,7 @@
 # Why would I want to optimize a function?
 ## How large can xy be if x+y=24?
 ![4](https://d.pr/15Ehs+)
+## How do you design the best soup can?
+![5](https://d.pr/103zl+)
+
 
