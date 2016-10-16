@@ -17,4 +17,5 @@
 ![5](https://d.pr/103zl+)
 ## How do three bubbles meet?
 ![6](https://d.pr/cW0R+)
-
+## How large of an object can you carry around a corner?
+![7](https://d.pr/1d3qp+)
