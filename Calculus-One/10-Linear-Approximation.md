@@ -8,3 +8,5 @@
 ## Why is log3 base 2 approximately 19/12?
 ![2](https://d.pr/TlRI+)
 ![3](https://d.pr/1e2Xt+)
+## what is Newton's method?
+![4](https://d.pr/1dBDS+)
