@@ -10,3 +10,5 @@
 ![3](https://d.pr/1e2Xt+)
 ## what is Newton's method?
 ![4](https://d.pr/1dBDS+)
+## What is a root of the polynomial x^5 + x^2 + 1?
+![5](https://d.pr/1dxVE+)
