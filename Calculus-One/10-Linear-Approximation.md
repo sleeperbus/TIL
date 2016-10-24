@@ -12,3 +12,9 @@
 ![4](https://d.pr/1dBDS+)
 ## What is a root of the polynomial x^5 + x^2 + 1?
 ![5](https://d.pr/1dxVE+)
+## How can Newton's method help me to divide quickly?
+![6](https://d.pr/1e6Bq+)
+# What is the mean value theorm?
+## What is the mean value theorm?
+![7](https://d.pr/1gy2e+)
+
