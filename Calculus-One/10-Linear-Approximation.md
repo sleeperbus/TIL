@@ -17,4 +17,5 @@
 # What is the mean value theorm?
 ## What is the mean value theorm?
 ![7](https://d.pr/1gy2e+)
-
+## Why does imply f'(x) > 0 that f is increasing?
+![8](https://d.pr/CKon+)
