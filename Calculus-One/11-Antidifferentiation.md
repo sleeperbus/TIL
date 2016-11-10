@@ -3,3 +3,6 @@
 ![1](https://d.pr/mkMR+)
 ## What is the antiderivative of a x^n?
 ![2](https://d.pr/SQQh+)
+## What is the most general antiderivative of 1/x?
+## What are antiderivatives of trigonometric functions?
+![3](https://d.pr/7ACf+)
