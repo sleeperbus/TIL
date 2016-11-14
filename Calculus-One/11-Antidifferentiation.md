@@ -11,3 +11,6 @@
 ![4](https://d.pr/7Os5+)
 ## What is an antiderivative of e^(-x^2)?
 ![5](https://d.pr/gU5b+)
+## Knowing velocity, what is position?
+## What is antiderivative of sine squred?
+![6](https://d.pr/G6uf+)
