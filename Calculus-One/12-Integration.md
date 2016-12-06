@@ -6,3 +6,5 @@
 # Can we compute any of these of integrals?
 ## What is the integral of x^2 from x=0 to 1?
 ![2](https://d.pr/xMT4+)
+## What is the integral of x^3 from x=1 to 2?
+![3](https://d.pr/CGbM+)
