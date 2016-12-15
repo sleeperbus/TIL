@@ -8,3 +8,7 @@
 ## What is the area between the graphs?
 ![2](https://d.pr/p8zh+)
 ![3](https://d.pr/Lc63+)
+
+# But why is the fundamental theorem true?
+## Why dows the Euler method resemble a Riemann sum?
+![4](https://d.pr/TALy+)
