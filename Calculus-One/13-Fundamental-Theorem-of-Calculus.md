@@ -12,3 +12,7 @@
 # But why is the fundamental theorem true?
 ## Why dows the Euler method resemble a Riemann sum?
 ![4](https://d.pr/TALy+)
+## Physically, why is the fundamental theorem of calculus true?
+![5](https://d.pr/jcoz+)
+## What is d/da integral fx dx from x = a to x = b?
+![6](https://d.pr/xBVp+)
