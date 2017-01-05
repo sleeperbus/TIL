@@ -21,6 +21,10 @@
 # An aside on optimization: multidimensional objectives
 ## Gradients: derivatives in multiple dimensions
 ## Gradient descent: multidimensional hill descent
+![1](https://d.pr/Y1ls+)
+![2](https://d.pr/zDmM+)
+![3](https://d.pr/Iby4+)
+![4](https://d.pr/QspB+)
 
 # Finding the least squares line 
 ## Computing the gradient of RSS
