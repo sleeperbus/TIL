@@ -33,6 +33,9 @@
 ## Approach 2: gradient descent
 ## Optional reading: worked-out example for gradient descent
 ## Comparing the approaches
+![5](https://d.pr/DO8a+)
+![6](https://d.pr/19RNE+)
+![7](https://d.pr/2bfn+)
 
 # Discussion and summary of simple linear regression 
 ## Influence of high leverage points: exploring the data
