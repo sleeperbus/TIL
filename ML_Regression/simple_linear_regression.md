@@ -35,7 +35,7 @@
 ## Comparing the approaches
 ![5](https://d.pr/DO8a+)
 ![6](https://d.pr/19RNE+)
-![7](https://d.pr/2bfn+)
+![7](https://d.pr/d28T+)
 
 # Discussion and summary of simple linear regression 
 ## Influence of high leverage points: exploring the data
